@@ -1,2 +1,2 @@
-# Amina-learning-coding
-I will keep all my project management for my coding journey here.
+# Hello!
+I am learning how to code and have decided to put everything related to this here!
