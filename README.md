@@ -1,7 +1,7 @@
 # Amina's programming journey
 I am teaching myself how to code and am using this repo as my project management tool. Here I am including my goals for my current sprint and what I achieved in previous sprints.
 
-Overall by the end of 2019, I hope to have:
+## Overall by the end of 2019, I hope to have:
 * Lead my development team to implement best practices relevant for our work and team (pair programming, code reviews, implement continuous integration, use of open source where possible, git culture - branches and commit message practices, test driven development)
 * Use TDD for all code I write
 * Write clear and concise technical documentation
@@ -9,7 +9,7 @@ Overall by the end of 2019, I hope to have:
 * Practice Behaviour Driven Development (BDD)
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
 
-Already evidenced and continuing to work on (as of March 2019):
+## Already evidenced and continuing to work on (as of March 2019):
 * Put code into production in a commercial setting
 * Practice pair programming
 * Undergo code reviews
