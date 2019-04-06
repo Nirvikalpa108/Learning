@@ -38,14 +38,13 @@ Every **Tuesday**:
 * Sign up for Thoughtbot Friday office hour, decide new CRUD app feature to work on, ask Rob on Slack for advice on my proposed solution and any reading - create pull request during the week, ask for Rob's review and note any questions for TB office hour.
 * Decide topic of blog post - set aside 2-4 hours during the week to write.
 
-By **15 April**:
-* Complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
+By **15 April** complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 
-By **22 April**:
-* Ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
+By **22 April** ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
 
-On **27 April**:
-* Attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
+On **27 April** attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
+
+On **3 May** attend [ReactJS Girls conference](https://reactjsgirls.com/).
 
 # Previous sprints
 * Sprint 1 - Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
