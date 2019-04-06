@@ -1,5 +1,5 @@
 # Amina's programming journey
-I am teaching myself how to code and am using this repo as my project management tool. Here I am including my goals for my current sprint and what I achieved in previous sprints.
+This repo is my professional project management tool. Here I am including my 2019 goals, what I hope to achieve in my current sprint and what I have achieved in previous ones.
 
 ## Overall by the end of 2019, I hope to have:
 * Led my development team to implement best practices relevant for our work and team (pair programming, code reviews, implement continuous integration, use of open source where possible, git culture - branches and commit message practices, test driven development)
