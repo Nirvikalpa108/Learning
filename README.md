@@ -44,6 +44,9 @@ By **15 April**:
 By **22 April**:
 * Ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
 
+On **27 April**:
+* Attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
+
 # Previous sprints
 * Sprint 1 - Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
 * Sprint 2 - Q1-19 Started my first dev job; re-negotiated my role, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
