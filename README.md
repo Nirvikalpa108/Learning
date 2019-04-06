@@ -46,6 +46,8 @@ On **27 April** attend [Linux virtual machine workshop](https://www.meetup.com/L
 
 On **3 May** attend [ReactJS Girls conference](https://reactjsgirls.com/).
 
+On **25-26 May** attend [Hamburg Ruby unconference](https://rubyunconf.eu).
+
 # Previous sprints
 * Sprint 1 - Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
 * Sprint 2 - Q1-19 Started my first dev job; re-negotiated my role, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
