@@ -21,14 +21,14 @@ I am teaching myself how to code and am using this repo as my project management
 # Sprint 3 - April to June 2019
 ## Goals
 
-* Solve one issue per week on the Layers of London repo in my dayjob (1 hour pairing, x hours preparing)
-* Spend four hours per week on the Ruby for Good Diaper/Partner base repos; 2 hours pairing and 2 hours preparing for my pairing session
-* Create the branch-it.cook Rails CRUD app (one hour pairing session with Thoughtbot, three hours preparing)
+* Solve one issue per week on the [Layers of London repo](https://github.com/layersoflondon/application) in my dayjob (1 hour pairing, x hours preparing)
+* Spend four hours per week on the [Ruby for Good Diaperbase](https://github.com/rubyforgood/diaper) and [Partnerbase](https://github.com/rubyforgood/partner) repos; 2 hours pairing and 2 hours preparing for my pairing session
+* Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app (one hour pairing session with Thoughtbot, three hours preparing)
 
 * Learn how to write unit and integration tests in Rails
 * Write one blog post per week on something I've learnt
-* Prepare Brighton Ruby conference talk
-* Prepare Hamburg Ruby unconference talk
+* Prepare [Brighton Ruby conference](https://brightonruby.com) talk
+* Prepare [Hamburg Ruby unconference](https://rubyunconf.eu) talk
 
 ## Method
 
@@ -38,10 +38,10 @@ Every **Tuesday**:
 * Sign up for Thoughtbot Friday office hour, decide new CRUD app feature to work on, ask Rob on Slack for advice on my proposed solution and any reading - create pull request during the week, ask for Rob's review and note any questions for TB office hour.
 * Decide topic of blog post - set aside 2-4 hours during the week to write.
 
-By 15 April:
+By **15 April**:
 * Complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 
-By 22 April:
+By **22 April**:
 * Ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
 
 # Previous sprints
