@@ -2,7 +2,7 @@
 I am teaching myself how to code and am using this repo as my project management tool. Here I am including my goals for my current sprint and what I achieved in previous sprints.
 
 ## Overall by the end of 2019, I hope to have:
-* Lead my development team to implement best practices relevant for our work and team (pair programming, code reviews, implement continuous integration, use of open source where possible, git culture - branches and commit message practices, test driven development)
+* Led my development team to implement best practices relevant for our work and team (pair programming, code reviews, implement continuous integration, use of open source where possible, git culture - branches and commit message practices, test driven development)
 * Use TDD for all code I write
 * Write clear and concise technical documentation
 * Know basic Ruby on Rails and React
