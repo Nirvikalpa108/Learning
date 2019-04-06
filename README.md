@@ -26,7 +26,7 @@ I am teaching myself how to code and am using this repo as my project management
 * Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app (one hour pairing session with Thoughtbot, three hours preparing)
 
 * Learn how to write unit and integration tests in Rails
-* Write one blog post per week on something I've learnt
+* Write one [blog post](https://medium.com/@adewusi) per week on something I've learnt
 * Prepare [Brighton Ruby conference](https://brightonruby.com) talk
 * Prepare [Hamburg Ruby unconference](https://rubyunconf.eu) talk
 
