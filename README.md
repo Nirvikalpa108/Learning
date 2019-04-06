@@ -38,6 +38,12 @@ Every **Tuesday**:
 * Sign up for Thoughtbot Friday office hour, decide new CRUD app feature to work on, ask Rob on Slack for advice on my proposed solution and any reading - create pull request during the week, ask for Rob's review and note any questions for TB office hour.
 * Decide topic of blog post - set aside 2-4 hours during the week to write.
 
+**Weekly structure**:
+* Tuesday - plan and structure the week & blog
+* Wed - LoL
+* Thu - CRUD app
+* Fri - Diaperbase
+
 By **15 April** complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 
 By **22 April** ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
