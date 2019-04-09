@@ -21,28 +21,19 @@ This repo is my professional project management tool. Here I am including my 201
 # Sprint 3 - April to June 2019
 ## Goals
 
-* Solve one issue per week on the [Layers of London repo](https://github.com/layersoflondon/application) in my dayjob (1 hour pairing, x hours preparing)
-* Spend four hours per week on the [Ruby for Good Diaperbase](https://github.com/rubyforgood/diaper) and [Partnerbase](https://github.com/rubyforgood/partner) repos; 2 hours pairing and 2 hours preparing for my pairing session
-* Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app (one hour pairing session with Thoughtbot, three hours preparing)
-
-* Learn how to write unit and integration tests in Rails
-* Write one [blog post](https://medium.com/@adewusi) per week on something I've learnt
-* Prepare [Brighton Ruby conference](https://brightonruby.com) talk
-* Prepare [Hamburg Ruby unconference](https://rubyunconf.eu) talk
+* **LoL** - Solve one issue per week on the [Layers of London repo](https://github.com/layersoflondon/application)
+* **Diaperbase** - Solve one issue per week on the [Ruby for Good Diaperbase](https://github.com/rubyforgood/diaper) and [Partnerbase](https://github.com/rubyforgood/partner) repos
+* **CRUD app** -Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app using TDD. Create one small feature per week.
+* **Other** - Write one [blog post](https://medium.com/@adewusi) a month on my journey. Prepare my conference talks for [Brighton Ruby conference](https://brightonruby.com) and the [Hamburg Ruby unconference](https://rubyunconf.eu).
 
 ## Method
 
-Every **Tuesday**:
-* Choose LoL issue to work on, check it's relevant with my colleagues, assign myself, describe how I would solve by responding on the issue, get feedback from colleagues on my proposed solution - implement during the week.
-* Choose Diaperbase issue to work on, ask Chase for a time to pair with him, ask for preparatory reading links - do reading  during the week.
-* Sign up for Thoughtbot Friday office hour, decide new CRUD app feature to work on, ask Rob on Slack for advice on my proposed solution and any reading - create pull request during the week, ask for Rob's review and note any questions for TB office hour.
-* Decide topic of blog post - set aside 2-4 hours during the week to write.
-
 **Weekly structure**:
-* Tuesday - plan and structure the week & blog
-* Wed - LoL
-* Thu - CRUD app
-* Fri - Diaperbase
+* Tuesday - LoL
+* Wed - CRUD app
+* Thu - Diaperbase
+* Fri - Other & plan and structure aims for the following week
+* Sat to Mon = rest
 
 By **15 April** complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 
