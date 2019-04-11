@@ -26,14 +26,15 @@ This repo is my professional project management tool. Here I am including my 201
 * **CRUD app** -Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app using TDD. Create one small feature per week.
 * **Other** - Write one [blog post](https://medium.com/@adewusi) a month on my journey. Prepare my conference talks for [Brighton Ruby conference](https://brightonruby.com) and the [Hamburg Ruby unconference](https://rubyunconf.eu).
 
-## Method
+## Weekly structure
 
-**Weekly structure**:
 * Tuesday - LoL
 * Wed - CRUD app
 * Thu - Diaperbase
 * Fri - Other & plan and structure aims for the following week
 * Sat to Mon = rest
+
+## Events
 
 By **15 April** complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 
@@ -42,6 +43,8 @@ By **22 April** ask @Torgo to help me prepare my conference talks, propose miles
 On **27 April** attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
 
 On **3 May** attend [ReactJS Girls conference](https://reactjsgirls.com/).
+
+On **13 May** attend [Code Liberation's AR event for women](https://www.eventbrite.com/e/code-liberation-introduction-to-unity-ar-and-3d-storytelling-tickets-58434976588).
 
 On **25-26 May** attend [Hamburg Ruby unconference](https://rubyunconf.eu).
 
