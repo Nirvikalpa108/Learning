@@ -26,15 +26,7 @@ This repo is my professional project management tool. Here I am including my 201
 * **CRUD app** -Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app using TDD. Create one small feature per week.
 * **Other** - Write one [blog post](https://medium.com/@adewusi) a month on my journey. Prepare my conference talks for [Brighton Ruby conference](https://brightonruby.com) and the [Hamburg Ruby unconference](https://rubyunconf.eu).
 
-## Weekly structure
-
-* Tuesday - LoL
-* Wed - CRUD app
-* Thu - Diaperbase
-* Fri - Other & plan and structure aims for the following week
-* Sat to Mon = rest
-
-## Events
+## Key dates
 
 By **15 April** complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 
