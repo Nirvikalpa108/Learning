@@ -3,15 +3,15 @@ This repo is my professional project management tool. Here I am including my 201
 
 ## Overall by the end of 2019, I hope to have:
 * Led my development team to implement best practices relevant for our work and team (pair programming, code reviews, implement continuous integration, use of open source where possible, git culture - branches and commit message practices, test driven development)
-* Know basic Ruby on Rails and React
-* Use TDD for all code I write
+* Working knowledge of React
 * Write clear and concise technical documentation
-* Practice Behaviour Driven Development (BDD)
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
 
 ## Already evidenced and continuing to work on (as of March 2019):
 * Know basic HTML, CSS and Javascript
+* Working knowledge of Ruby on Rails
 * Put code into production in a commercial setting
+* Use TDD
 * Undergo code reviews
 * Use RESTful APIs 
 * Know how to build and manipulate Databases
