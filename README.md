@@ -28,19 +28,19 @@ This repo is my professional project management tool. Here I am including my 201
 
 ## Key dates
 
-By **15 April** complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
+**April** 
+* Complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
+* Ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
+* Prepare structure for Hamburg Ruby unconference talk with Jan Krutisch.
+* On **27 April** attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
 
-By **22 April** ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
+**May** 
+* On **3 May** attend [ReactJS Girls conference](https://reactjsgirls.com/).
+* On **13 May** attend [Code Liberation's AR event for women](https://www.eventbrite.com/e/code-liberation-introduction-to-unity-ar-and-3d-storytelling-tickets-58434976588).
+* On **25-26 May** attend [Hamburg Ruby unconference](https://rubyunconf.eu).
 
-On **27 April** attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
-
-On **3 May** attend [ReactJS Girls conference](https://reactjsgirls.com/).
-
-On **13 May** attend [Code Liberation's AR event for women](https://www.eventbrite.com/e/code-liberation-introduction-to-unity-ar-and-3d-storytelling-tickets-58434976588).
-
-On **25-26 May** attend [Hamburg Ruby unconference](https://rubyunconf.eu).
-
-On **21-22 June** attend [European Ruby conference](https://euruko2019.org/) - need to find funding for transport/hotel.
+**June** 
+* On **21-22 June** attend [European Ruby conference](https://euruko2019.org/) - need to find funding for transport/hotel.
 
 # Previous sprints
 * Sprint 1 - Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
