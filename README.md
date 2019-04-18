@@ -29,7 +29,6 @@ This repo is my professional project management tool. Here I am including my 201
 ## Key dates
 
 **April** 
-* Complete this [Rails testing tutorial](https://thoughtbot.com/upcase/test-driven-rails).
 * Ask @Torgo to help me prepare my conference talks, propose milestones for my preparation and get his feedback
 * Prepare structure for Hamburg Ruby unconference talk with Jan Krutisch.
 * On **27 April** attend [Linux virtual machine workshop](https://www.meetup.com/Linuxing-In-London/events/255908624/).
