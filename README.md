@@ -1,22 +1,14 @@
 # Amina's programming journey
 This repo is my professional project management tool. Here I am including my 2019 goals, what I hope to achieve in my current sprint and what I have achieved in previous ones.
 
-## Overall by the end of 2019, I hope to have:
-* Led my development team to implement best practices relevant for our work and team (pair programming, code reviews, implement continuous integration, use of open source where possible, git culture - branches and commit message practices, test driven development)
-* Working knowledge of React
+## Overall by the end of 2019, I hope to:
+* independently build Rails CRUD apps using TDD
+* confidently build React CRUD apps using TDD
+* Use RESTful APIs 
+* build and manipulate databases
+* Use agile processes (user stories, stand-ups, sprints, retros)
 * Write clear and concise technical documentation
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
-
-## Already evidenced and continuing to work on (as of March 2019):
-* Know basic HTML, CSS and Javascript
-* Working knowledge of Ruby on Rails
-* Put code into production in a commercial setting
-* Use TDD
-* Undergo code reviews
-* Use RESTful APIs 
-* Know how to build and manipulate Databases
-* Practice pair programming
-* Use Agile processes (user stories, stand-ups, sprints, retros)
 
 # Sprint 3 - April to June 2019
 ## Goals
