@@ -4,7 +4,7 @@ This repo is my professional project management tool. Here I am including my 201
 ## Overall by the end of 2019, I hope to:
 * independently build Rails CRUD apps using TDD
 * confidently build React CRUD apps using TDD
-* Use RESTful APIs 
+* Use and create RESTful APIs 
 * build and manipulate databases
 * Use agile processes (user stories, stand-ups, sprints, retros)
 * Write clear and concise technical documentation
