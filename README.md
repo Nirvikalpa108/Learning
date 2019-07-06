@@ -11,7 +11,6 @@ This repo is my professional project management tool. Here I am including my 201
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
 
 # July to September 2019
-## Goals
 * Exercism Ruby track complete
 * Complete 3x side projects
 
