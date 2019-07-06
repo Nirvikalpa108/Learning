@@ -20,5 +20,6 @@ This repo is my professional project management tool. Here I am including my 201
 
 # Previous sprints
 * Sprint 1 - Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
-* Sprint 2 - Q1-19 Started my first dev job; re-negotiated my role, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
-* Sprint 3 - Q2-19 Spoke at my first tech conference (Hamburg Ruby), built my first Rails CRUD app, started the Exercism Ruby track and continued to contribute to Diaperbase.
+* Sprint 2 - Q1-19 Started my first dev job; re-negotiated my role as a Product Manager, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
+* Sprint 3 - Q2-19 Spoke at my first tech conference (Hamburg Ruby Unconf), built my first Rails CRUD app, started the Exercism Ruby track and continued to contribute to Diaperbase. Completed 2x side projects. Attended Euruko Rotterdam.
+* Sprint 4 - Q3-19 Spoke at Brighton Ruby, Fullstack Conf and attended Ruby for Good in Washington DC.
