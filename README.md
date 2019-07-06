@@ -10,7 +10,7 @@ This repo is my professional project management tool. Here I am including my 201
 * Write clear and concise technical documentation
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
 
-# Sprint 3 - April to June 2019
+# April to June 2019
 ## Goals
 
 * **LoL** - Solve one issue per week on the [Layers of London repo](https://github.com/layersoflondon/application)
@@ -19,7 +19,7 @@ This repo is my professional project management tool. Here I am including my 201
 * **Other** - Write one [blog post](https://medium.com/@adewusi) a month on my journey. Prepare my conference talks for [Brighton Ruby conference](https://brightonruby.com) and the [Hamburg Ruby unconference](https://rubyunconf.eu).
 
 # Previous sprints
-* Sprint 1 - Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
-* Sprint 2 - Q1-19 Started my first dev job; re-negotiated my role as a Product Manager, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
-* Sprint 3 - Q2-19 Spoke at my first tech conference (Hamburg Ruby Unconf), built my first Rails CRUD app, started the Exercism Ruby track and continued to contribute to Diaperbase. Completed 2x side projects. Attended Euruko Rotterdam.
-* Sprint 4 - Q3-19 Spoke at Brighton Ruby, Fullstack Conf and attended Ruby for Good in Washington DC.
+* Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
+* Q1-19 Started my first dev job; re-negotiated my role as a Product Manager, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
+* Q2-19 Spoke at my first tech conference (Hamburg Ruby Unconf), built my first Rails CRUD app, started the Exercism Ruby track and continued to contribute to Diaperbase. Completed 2x side projects. Attended Euruko Rotterdam.
+* Q3-19 Spoke at Brighton Ruby, Fullstack Conf and attended Ruby for Good in Washington DC.
