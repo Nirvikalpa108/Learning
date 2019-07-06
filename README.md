@@ -10,13 +10,10 @@ This repo is my professional project management tool. Here I am including my 201
 * Write clear and concise technical documentation
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
 
-# April to June 2019
+# July to September 2019
 ## Goals
-
-* **LoL** - Solve one issue per week on the [Layers of London repo](https://github.com/layersoflondon/application)
-* **Diaperbase** - Solve one issue per week on the [Ruby for Good Diaperbase](https://github.com/rubyforgood/diaper) and [Partnerbase](https://github.com/rubyforgood/partner) repos
-* **CRUD app** -Create the [branch-it.cook](https://github.com/Nirvikalpa108/Rails-blog) Rails CRUD app using TDD. Create one small feature per week.
-* **Other** - Write one [blog post](https://medium.com/@adewusi) a month on my journey. Prepare my conference talks for [Brighton Ruby conference](https://brightonruby.com) and the [Hamburg Ruby unconference](https://rubyunconf.eu).
+* Exercism Ruby track complete
+* Complete 3x side projects
 
 # Previous sprints
 * Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
