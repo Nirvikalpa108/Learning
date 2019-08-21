@@ -15,7 +15,9 @@ This repo is my professional project management tool. Here I am including my 201
 * Complete 3x side projects
 
 # Previous sprints
-* Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
-* Q1-19 Started my first dev job; re-negotiated my role as a Product Manager, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
+* Q3-19 Got my first developer job at the Guardian! Spoke at Brighton Ruby, Fullstack Conf and attended Ruby for Good in Washington DC.
 * Q2-19 Spoke at my first tech conference (Hamburg Ruby Unconf), built my first Rails CRUD app, started the Exercism Ruby track and continued to contribute to Diaperbase. Completed 2x side projects. Attended Euruko Rotterdam.
-* Q3-19 Spoke at Brighton Ruby, Fullstack Conf and attended Ruby for Good in Washington DC.
+* Q1-19 Started my first tech job; re-negotiated my role as a Product Manager, found a Rails open source project to contribute to (Diaperbase), found mentors to help me with building Rails CRUD apps (ThoughtBot) and got my first tech conference talk accepted (Brighton Ruby, July 2019).
+* Q4-18 Started learning how to code, completed code first girls beginners course, secured a junior dev job.
+
+
