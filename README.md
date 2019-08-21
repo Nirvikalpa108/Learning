@@ -1,7 +1,11 @@
 # Amina's programming journey
 This repo is my professional project management tool. Here I am including my 2019 goals, what I hope to achieve in my current sprint and what I have achieved in previous ones.
 
-## Overall by the end of 2019, I hope to:
+## 2019 goals
+My goals have changed significantly over the course of the year. After accepting my first developer job at the Guardian in August, my goals are:
+* Add latest goals here
+
+I started 2019 with the following goals:
 * independently build Rails CRUD apps using TDD
 * confidently build React CRUD apps using TDD
 * Use and create RESTful APIs 
