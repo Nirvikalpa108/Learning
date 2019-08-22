@@ -17,13 +17,6 @@ I started 2019 with the following goals:
 * Write clear and concise technical documentation
 * Have an understanding of the following considerations; security, availability, reliability, monitoring integration, performance testing and scalability
 
-# July to September 2019
-* Exercism Javascript - 30mins a day
-* JS30 start
-* Scala Hello World
-* Attend Lambdale conference on Functional Programming (21 September)
-* Setup Raspberry Pi Zero
-
 # Previous sprints
 * Q3-19 Got my first developer job at the Guardian! Spoke at Brighton Ruby, Fullstack Conf and attended Ruby for Good in Washington DC.
 * Q2-19 Spoke at my first tech conference (Hamburg Ruby Unconf), built my first Rails CRUD app, started the Exercism Ruby track and continued to contribute to Diaperbase. Completed 2x side projects. Attended Euruko Rotterdam.
