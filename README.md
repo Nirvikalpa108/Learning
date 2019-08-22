@@ -3,7 +3,10 @@ This repo is my professional project management tool. Here I am including my 201
 
 ## 2019 goals
 My goals have changed significantly over the course of the year. After accepting my first developer job at the Guardian in August, my goals are:
-* Add latest goals here
+* Learn how to manage my imposter syndrome so that I can be an effective Associate Software Engineer at the Guardian
+* Teach myself basic vanilla Javascript over August and September
+* Read the first 3 chapters of the Programming in Scala Book
+* Attend a scala meetup and the Lambdale conference.
 
 I started 2019 with the following goals:
 * independently build Rails CRUD apps using TDD
